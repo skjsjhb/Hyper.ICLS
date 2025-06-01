@@ -1267,6 +1267,12 @@
         <option name="FOREGROUND" value="787878" />
       </value>
     </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="ff90c8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="OC.MACRONAME">
       <value>
         <option name="FOREGROUND" value="f8c58e" />
