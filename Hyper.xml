@@ -2202,6 +2202,11 @@
         <option name="FOREGROUND" value="bdbdbd" />
       </value>
     </option>
+    <option name="org.rust.ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="f8c58e" />
+      </value>
+    </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
         <option name="FOREGROUND" value="787878" />
