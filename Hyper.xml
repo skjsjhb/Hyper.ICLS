@@ -934,6 +934,7 @@
       <value />
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.JSX_CLIENT_COMPONENT" baseAttributes="XML_CUSTOM_TAG_NAME" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
@@ -2055,11 +2056,6 @@
     <option name="TS.DOT">
       <value>
         <option name="FOREGROUND" value="bdbdbd" />
-      </value>
-    </option>
-    <option name="TS.FUNCTION_ARROW">
-      <value>
-        <option name="FOREGROUND" value="53FAC3" />
       </value>
     </option>
     <option name="TS.INTERFACE">
