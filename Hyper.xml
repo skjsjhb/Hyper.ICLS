@@ -1235,6 +1235,7 @@
         <option name="FOREGROUND" value="d9b72b" />
       </value>
     </option>
+<option name="MARKDOWN_AUTO_LINK" baseAttributes="HYPERLINK_ATTRIBUTES" />
     <option name="MARKDOWN_CODE_BLOCK">
       <value>
         <option name="FOREGROUND" value="85c46c" />
@@ -1245,6 +1246,7 @@
         <option name="FOREGROUND" value="85c46c" />
       </value>
     </option>
+    <option name="MARKDOWN_LINK_TEXT" baseAttributes="HYPERLINK_ATTRIBUTES" />
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
         <option name="FOREGROUND" value="85c46c" />
