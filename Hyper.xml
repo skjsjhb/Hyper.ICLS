@@ -2231,6 +2231,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+<option name="org.rust.OVERLOADED_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="53fac3" />
+      </value>
+    </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="b7f378" />
