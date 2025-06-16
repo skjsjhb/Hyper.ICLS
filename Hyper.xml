@@ -1231,6 +1231,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="53fac3" />
+      </value>
+    </option>
     <option name="MARKDOWN_IMAGE">
       <value>
         <option name="FOREGROUND" value="f8c58e" />
