@@ -993,17 +993,7 @@
         <option name="FOREGROUND" value="bdbdbd" />
       </value>
     </option>
-    <option name="JSON.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ed94c0" />
-      </value>
-    </option>
-    <option name="JSON.VALID_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="d688d4" />
-      </value>
-    </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
         <option name="FOREGROUND" value="cba6f7" />
